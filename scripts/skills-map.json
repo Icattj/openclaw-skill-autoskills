@@ -1,0 +1,211 @@
+{
+  "technologies": {
+    "react": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["vercel-labs/agent-skills/vercel-react-best-practices"]
+    },
+    "nextjs": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["vercel-labs/next-skills/next-best-practices"]
+    },
+    "python": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "docker": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "node": {
+      "openclaw": ["dev-workflow", "systematic-debugging", "code-review"],
+      "clawhub": [],
+      "external": ["wshobson/agents/nodejs-backend-patterns"]
+    },
+    "typescript": {
+      "openclaw": ["dev-workflow", "file-editor"],
+      "clawhub": [],
+      "external": ["wshobson/agents/typescript-advanced-types"]
+    },
+    "playwright": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["currents-dev/playwright-best-practices-skill/playwright-best-practices"]
+    },
+    "tailwind": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["giuseppe-trisciuoglio/developer-kit/tailwind-css-patterns"]
+    },
+    "supabase": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["supabase/agent-skills/supabase-postgres-best-practices"]
+    },
+    "prisma": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["prisma/skills/prisma-database-setup", "prisma/skills/prisma-client-api"]
+    },
+    "github-actions": {
+      "openclaw": ["github-enhanced"],
+      "clawhub": [],
+      "external": []
+    },
+    "stripe": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["stripe/ai/stripe-best-practices"]
+    },
+    "vitest": {
+      "openclaw": ["dev-workflow"],
+      "clawhub": [],
+      "external": ["antfu/skills/vitest"]
+    },
+    "vue": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["hyf0/vue-skills/vue-best-practices", "antfu/skills/vue"]
+    },
+    "svelte": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["ejirocodes/agent-skills/svelte5-best-practices"]
+    },
+    "angular": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["angular/skills/angular-developer"]
+    },
+    "astro": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["astrolicious/agent-skills/astro"]
+    },
+    "cloudflare": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["cloudflare/skills/cloudflare", "cloudflare/skills/workers-best-practices"]
+    },
+    "hono": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["yusukebe/hono-skill/hono"]
+    },
+    "nestjs": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["kadajett/agent-nestjs-skills/nestjs-best-practices"]
+    },
+    "express": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["aj-geddes/useful-ai-prompts/nodejs-express-server"]
+    },
+    "drizzle": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["bobmatnyc/claude-mpm-skills/drizzle-orm"]
+    },
+    "jest": {
+      "openclaw": ["dev-workflow"],
+      "clawhub": [],
+      "external": []
+    },
+    "flutter": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": []
+    },
+    "rust": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "go": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "shadcn": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["shadcn/ui/shadcn"]
+    },
+    "fastify": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "nuxt": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": []
+    },
+    "kubernetes": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "terraform": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "vercel": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "ruby": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "php": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    },
+    "java": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": []
+    }
+  },
+  "combos": {
+    "nextjs+tailwind+shadcn": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": ["secondsky/claude-skills/tailwind-v4-shadcn"]
+    },
+    "node+express": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["aj-geddes/useful-ai-prompts/nodejs-express-server"]
+    },
+    "react+tailwind": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": []
+    },
+    "vue+nuxt": {
+      "openclaw": ["ui-ux-pro-max"],
+      "clawhub": [],
+      "external": []
+    },
+    "prisma+supabase": {
+      "openclaw": [],
+      "clawhub": [],
+      "external": ["supabase/agent-skills/supabase-postgres-best-practices", "prisma/skills/prisma-database-setup"]
+    },
+    "typescript+vitest": {
+      "openclaw": ["dev-workflow"],
+      "clawhub": [],
+      "external": ["antfu/skills/vitest"]
+    }
+  }
+}
