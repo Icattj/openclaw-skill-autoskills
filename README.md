@@ -1,3 +1,7 @@
+# ---
+
+> OpenClaw AI Agent Skill
+
 ---
 name: autoskills
 description: Auto-detect project tech stack and recommend/install matching AI agent skills. Scans package.json, config files, and project structure to find frameworks, languages, and infrastructure. Maps detections to OpenClaw skills, clawhub packages, and external skill sources. Use when starting work on a new project, onboarding to a codebase, or checking if better skills are available.
@@ -189,3 +193,13 @@ skills/autoskills/
 └── references/
     └── detection-rules.md        ← Detailed detection documentation
 ```
+
+## Installation
+
+```bash
+cp -r autoskills/ ~/.openclaw/workspace/skills/autoskills/
+```
+
+## License
+
+MIT © [Sentra Technology](https://github.com/Icattj)
